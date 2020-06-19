@@ -1,9 +1,12 @@
 <html>
 <head>
-<title>Page Title</title>
-</head>
 <style>
-body { background-color: coral;}
+body {
+  background-color: coral;
+}
+</style>
+</head>
+<body>
 
 <h1>This is a Heading</h1>
 <p>hello world!</p>
